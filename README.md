@@ -11,5 +11,5 @@ Active Learning for Text Classification  trains a text classification model usin
 * PACE - ML is Mphasis Framework and Methodology for end-to-end machine learning development and deployment. PACE-ML enables organizations to improve the quality & reliability of the machine learning solutions in production and helps automate, scale, and monitor them. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here]()
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-k5gkd3sm5ckbu)
 
